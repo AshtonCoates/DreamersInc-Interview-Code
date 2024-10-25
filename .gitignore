@@ -1,3 +1,6 @@
+# large data files
+data/train.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
